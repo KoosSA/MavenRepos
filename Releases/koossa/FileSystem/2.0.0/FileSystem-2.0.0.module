@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "koossa",
+    "module": "FileSystem",
+    "version": "2.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "FileSystem-2.0.0.jar",
+          "url": "FileSystem-2.0.0.jar",
+          "size": 3405,
+          "sha512": "69a3b949ca80aab1c7370018ff5e95e6202516055fbe67fefe5a36d3b86e43d4eb6529007b79ac7cf489701c32e78b79569bb3590fcb66d2dc113d9d1dab5cc9",
+          "sha256": "68fbb7a9cba59839a492ec3b53b9eb26f2b88f56204c4160007d379e61b32086",
+          "sha1": "9a425b800ed0fa31c0c9a7cf8065a4feaae676e2",
+          "md5": "1af4ef50db4bee6f54ba48a396a5d2ee"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "FileSystem-2.0.0.jar",
+          "url": "FileSystem-2.0.0.jar",
+          "size": 3405,
+          "sha512": "69a3b949ca80aab1c7370018ff5e95e6202516055fbe67fefe5a36d3b86e43d4eb6529007b79ac7cf489701c32e78b79569bb3590fcb66d2dc113d9d1dab5cc9",
+          "sha256": "68fbb7a9cba59839a492ec3b53b9eb26f2b88f56204c4160007d379e61b32086",
+          "sha1": "9a425b800ed0fa31c0c9a7cf8065a4feaae676e2",
+          "md5": "1af4ef50db4bee6f54ba48a396a5d2ee"
+        }
+      ]
+    }
+  ]
+}
